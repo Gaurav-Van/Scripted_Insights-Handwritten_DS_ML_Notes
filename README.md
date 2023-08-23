@@ -61,7 +61,8 @@ Enhance your learning experience through recommended YouTube channels. The Chann
 
 ## Contribution
 
-Your engagement is valued. If you spot areas for improvement, feel free to contribute. Your additions can further enrich this knowledge hub. If you have some notes or resources feel free to add those in this repo
+Your engagement is valued. If you spot areas for improvement, feel free to contribute. Your additions can further enrich this knowledge hub. If you have some notes or resources feel free to add those to this repo
+<hr>
 
 ## Start Your Journey
 
