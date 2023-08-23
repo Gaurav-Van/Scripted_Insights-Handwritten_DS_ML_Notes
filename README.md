@@ -17,9 +17,7 @@ From foundational algorithms to advanced statistical methods, from neural networ
 
 ## Structure of this Repository -  Note Batches
 
-Discover curated note batches, each brimming with insightful knowledge. Every batch comprises two components: a PDF of handwritten notes and an accompanying README detailing covered topics. For Example
-
-### [Batch 1](/Batch1/README.md)
+Discover curated note batches, each brimming with insightful knowledge. Every batch comprises two components: a PDF of handwritten notes and an accompanying README detailing covered topics. 
 
     - Batch X
        - Batch X.pdf
