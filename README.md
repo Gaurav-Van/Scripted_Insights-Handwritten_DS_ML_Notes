@@ -19,22 +19,39 @@ From foundational algorithms to advanced statistical methods, from neural networ
 
 ### Blogs
 
-Explore handpicked blog resources that provide in-depth insights into key concepts. Dive into their valuable content:
+Explore handpicked blog resources that provide in-depth insights into key concepts. These Blogs helped me in my journey.  Dive into their valuable content
 
-- [Medium](https://medium.com/) <br> <img src=https://github.com/Gaurav-Van/Scripted_Insights-Handwritten_DS_ML_Notes/assets/50765800/1848f99e-0421-46ba-8d01-1328a00ce5a0 alt="Example Blog from Medium" width="900" height="300">
-- [Analytics Vidhya](https://www.analyticsvidhya.com/) <br> <img src=https://github.com/Gaurav-Van/Scripted_Insights-Handwritten_DS_ML_Notes/assets/50765800/d8cf6e39-832f-405b-93ba-967a2c80e403 alt="Example Blog from Analytics Vidhya" width="800" height="400">
+- [**Medium**](https://medium.com)
+  - [Example Blog 1](https://medium.com/ai-in-plain-english/quantum-deep-learning-the-next-frontier-in-machine-learning-72f7bb4fd93a)
+  - [Example Blog 2](https://medium.com/mlearning-ai/transfer-learning-and-convolutional-neural-networks-cnn-e68db4c48cca)
+
+- [**Analytics Vidhya**](https://www.analyticsvidhya.com/)
+  - [Example Blog 1](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-linear-regression/)
+  - [Example Blog 2](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 
 ### YouTube Channels
 
-Enhance your learning experience through recommended YouTube channels. Engage with dynamic visual explanations:
+Enhance your learning experience through recommended YouTube channels. The Channel helped me upskill myself. They are the biggest contributors. Engage with dynamic visual explanations. <br><br> **Explore their channel and Playlists as much as you can.** 
 
-- [YouTube Channel 1](Link to Channel 1) [![Channel 1 Preview](/images/channel1_preview.jpg)](Link to Channel 1)
-- [YouTube Channel 2](Link to Channel 2) [![Channel 2 Preview](/images/channel2_preview.jpg)](Link to Channel 2)
+- [Corey Schafer](https://www.youtube.com/@coreyms)
+   - [Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+   - [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+
+- [Krish Naik](https://www.youtube.com/@krishnaik06)
+   - [ML Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+   - [DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+   - [Linear Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
+   - [Maths - Stats](https://www.youtube.com/playlist?list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR)
+     
+- [Code basics](https://www.youtube.com/@codebasics)
+  
 <hr>
 
 ## Contribution
 
-Your engagement is valued. If you spot areas for improvement, feel free to contribute. Your additions can further enrich this knowledge hub.
+Your engagement is valued. If you spot areas for improvement, feel free to contribute. Your additions can further enrich this knowledge hub. If you have some notes or resources feel free to add those in this repo
 
 ## Start Your Journey
 
