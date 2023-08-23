@@ -10,5 +10,5 @@ The notes in this batch encompass the following key topics:
  - Confusion Matrix
  - K Nearest Neighbour
  - K Means
- - Overview of Decision Tree and Random Fores
+ - Overview of Decision Tree and Random Forest
 
