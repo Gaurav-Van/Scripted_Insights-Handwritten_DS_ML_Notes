@@ -75,7 +75,7 @@ Embark on your journey into the captivating domains of Data Science and Machine 
 Reach out for inquiries and discussions:
 - Email: marbkable@gmail.com
 - LinkedIn: [Gaurav Jain](https://www.linkedin.com/in/gauravvan/)
-
+- gumroad: [MarbKable](https://marbkable.gumroad.com/l/uodef)
 ---
 
 **Scripted Insights** - Empowering Learning, One Stroke at a Time.
