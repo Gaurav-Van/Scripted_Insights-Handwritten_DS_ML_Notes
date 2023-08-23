@@ -6,13 +6,25 @@ From foundational algorithms to advanced statistical methods, from neural networ
 
 ## Contents
 
-- **Machine Learning**: Discover a range of algorithms, techniques, and methodologies that form the foundation of machine learning. Delve into supervised, unsupervised learning and more.
+- **Machine Learning**: Discover a range of algorithms, techniques, and methodologies that form the foundation of machine learning. Delve into supervised, and unsupervised learning and more.
 
 - **Deep Learning Algorithms**: Unveil the mysteries of neural networks, convolutional networks, and recurrent networks. Harness the power of deep learning to comprehend complex patterns.
 
 - **Data Science Concepts**: Grasp the essence of data preprocessing, feature engineering, and exploratory data analysis. Lay the groundwork for extracting insights from raw data.
 
 - **Mathematics**: Navigate through the realm of statistics and numeric integration, crucial to the data-driven decision-making process.
+<hr>
+
+## Structure of this Repository -  Note Batches
+
+Discover curated note batches, each brimming with insightful knowledge. Every batch comprises two components: a PDF of handwritten notes and an accompanying README detailing covered topics. For Example
+
+### [Batch 1](/Batch1/README.md)
+
+    - Batch X
+       - Batch X.pdf
+       - README.md
+
 <hr>
 
 ## Additional Resources
