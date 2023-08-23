@@ -1,6 +1,14 @@
-Topics Covered 
+# Batch 1 Notes
+
+Welcome to the Batch 1 Notes repository. In this folder, you'll find the notes for Batch X, covering a range of topics in the field of Data Science and Machine Learning.
+
+## Topics Covered
+
+The notes in this batch encompass the following key topics:
+
  - Linear Regression
  - Confusion Matrix
  - K Nearest Neighbour
  - K Means
- - Overview of Decision Tree and Random Forest
+ - Overview of Decision Tree and Random Fores
+
