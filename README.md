@@ -56,7 +56,26 @@ Enhance your learning experience through recommended YouTube channels. The Chann
    - [Maths - Stats](https://www.youtube.com/playlist?list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR)
      
 - [Code basics](https://www.youtube.com/@codebasics)
-  
+
+### Retrieval-Augmented Generation (RAG) and Fine-Tuning
+
+1. [What is RAG ? (Retrieval Augmented Generation)](https://youtu.be/u47GtXwePms?feature=shared)
+2. [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygUecmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9u)
+3. [Building a RAG application from scratch using Python, LangChain, and the OpenAI API](https://www.youtube.com/watch?v=BrsocJb-fAo&pp=ygVRYnVpbGRpbmcgYSByYWcgYXBwbGljYXRpb24gZnJvbSBzY3JhdGNoIHVzaW5nIHB5dGhvbiBsYW5nY2hhaW4gYW5kIHRoZSBvcGVuYWkgYXBp)
+4. [Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://www.youtube.com/watch?v=sVcwVQRHIc8&pp=ygVRYnVpbGRpbmcgYSByYWcgYXBwbGljYXRpb24gZnJvbSBzY3JhdGNoIHVzaW5nIHB5dGhvbiBsYW5nY2hhaW4gYW5kIHRoZSBvcGVuYWkgYXBp)
+5. [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I&pp=ygUdYnVpbGRpbmcgcHJvZHVjdGlvbiByZWFkeSByYWc%3D)
+6. [RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+
+* [RAG vs. Fine Tuning](https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUecmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9u)
+* [LoRA & QLoRA Fine-tuning Explained In-Depth](https://www.youtube.com/watch?v=t1caDsMzWBk&pp=ygUPZmluZSB0dW5pbmcgbGxt)
+* [Fine-Tuning-LLMs](https://github.com/Gaurav-Van/Fine-Tuning-LLMs)
+* [The scientist who coined retrieval augmented generation](https://www.youtube.com/watch?v=CMLCpZarQkE&pp=ygUecmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9u)
+
+* [How to best integrate multimodal models into RAG systems for the industrial domain.](https://www.linkedin.com/posts/omarsar_besides-agents-multimodal-rag-is-probably-activity-7257244839497363456-N2Fc?utm_source=share&utm_medium=member_desktop)
+* [Building GenAI Enterprise Applications with Vectara and Datavolo](https://medium.com/@ofermend/building-genai-enterprise-applications-with-vectara-and-datavolo-a8e1102e1767)
+* [The LLM Triangle Principles to Architect Reliable AI Apps](https://medium.com/towards-data-science/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e)
+* [How to Think About Using Your Company’s Information with GenAI](https://medium.com/towards-data-science/how-to-think-about-using-your-companys-information-with-genai-e4ba63af38b8)
+
 <hr>
 
 ## Contribution
